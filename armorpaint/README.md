@@ -93,3 +93,4 @@ cd ../armorcore/Deployment
 strip ArmorPaint
 ./ArmorPaint ../../armorpaint/build/krom
 ```
+.
